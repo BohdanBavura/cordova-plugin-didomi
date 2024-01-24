@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-didomi",
+  "version": "0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanBavura/cordova-plugin-didomi.git"
+  },
+  "cordova": {
+    "id": "cordova-plugin-didomi",
+    "platforms": [ 
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova", 
+    "cordova-android"
+  ],
+  "author": {
+    "name": "BohdanBavura"
+  },
+  "license": "ISC"
+}
